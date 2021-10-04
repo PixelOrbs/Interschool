@@ -169,6 +169,7 @@ video{
   height:768px;
 }
 .image2{
+  top:50px;
   position: absolute;
   width:1366px;
   height:100%;
