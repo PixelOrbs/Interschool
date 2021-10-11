@@ -18,7 +18,7 @@ section
     min-height: 100vh;
     padding: 20px;
     width: 100%;
-    background: #001923;
+    background: url(background.png);
 
 }
 section::before
