@@ -111,9 +111,9 @@ header .logo
 {
   position: relative;
   z-index: 3;
-  font-size: 16vw;
+  font-size: 12vw;
   color: #fff;
-  text-shadow: 0 20px 30px rgba(0,0,0,0,2);
+  text-shadow: 0 50px 50px rgba(0,0,0,0,2);
 }
 .navigation
 {
@@ -142,7 +142,7 @@ header .logo
 {
   display: inline-flex;
   margin: 5px 0;
-  font-size: 1.35em;
+  font-size: 3em;
   text-decoration: none;
   color: var(--black);
   padding: 5px 20px;
